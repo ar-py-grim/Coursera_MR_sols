@@ -25,8 +25,8 @@ def IKinBodyIterates(T_desired, theta_guess, M, Blist, eomg, ev):
                error. The returned joint angles must give an end-effector
                position error less than ev
 
-    :return thetalist: Joint angles that achieve T within the specified
-                       tolerances,
+    :return theta_matrix: All the Joint angles that were achieved with sucessive iterations 
+                          within the specified tolerances,
 
     :return success: A logical value where TRUE means that the function found
                      a solution and FALSE means that it ran through the set
@@ -111,5 +111,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-    
