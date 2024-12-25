@@ -9,3 +9,4 @@ Running **iterates.csv file** in **Scene2_UR5_csv.ttt** file
 <br/>
 Implementing Inverse Kinematics on UR5 arm in Coppeliasim 
 
+Video for implementation [video](https://youtu.be/A9nwSz6n5Y4)
