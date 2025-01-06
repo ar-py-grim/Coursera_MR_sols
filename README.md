@@ -1,4 +1,6 @@
-# Coursera2-week3
+# Coursera_MR_sols
+
+## MR part-2 week-3
 
 <img width="960" alt="Running_iterates csv_file" src="https://github.com/user-attachments/assets/6e87559c-7de1-4648-8b81-b7ab50debd77" /> 
 <br/>
